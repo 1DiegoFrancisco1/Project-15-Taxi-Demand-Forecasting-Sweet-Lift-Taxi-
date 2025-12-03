@@ -113,4 +113,4 @@ The final model empowers **Sweet Lift Taxi** to:
 
 ## 👨‍💻 Author
 **Diego Francisco Domínguez Aguilar**  
-Data Science Bootcamp – TripleTen (2025)
+Data Science Bootcamp – TripleTen (2025).
