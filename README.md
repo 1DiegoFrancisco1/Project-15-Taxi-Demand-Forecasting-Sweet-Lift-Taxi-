@@ -42,7 +42,7 @@ The model must achieve an **RMSE ≤ 48** on the test dataset.
   - Gradual increase during the day, with sustained demand between **15:00–23:00**.
 
 🧠 **Conclusion:**  
-The time series exhibits both **weekly and daily seasonality**, plus a mild long-term upward trend.  
+The time series exhibits both **weekly and daily seasonality**, plus a mild long-term upward trend. 
 Time-derived features such as **hour, day of week, lag values, and rolling means** are essential for accurate forecasting.
 
 ---
